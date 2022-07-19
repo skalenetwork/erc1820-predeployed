@@ -1,8 +1,8 @@
-# ERC1820Registry Predeployed
+# ERC1820 Predeployed
 
 ## Description
 
-Predeployed ERC1820 Pseudo-introspection Registry Contract. Defines a universal registry smart contract where any address (contract or regular account) can register which interface it supports and which smart contract is responsible for its implementation.
+Predeployed ERC1820Registry contract. Defines a universal registry smart contract where any address (contract or regular account) can register which interface it supports and which smart contract is responsible for its implementation.
 
 ## Predeployed mode
 
