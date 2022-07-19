@@ -1,3 +1,5 @@
 solidityKeccak
 mload
 struct
+mstore
+staticcall
