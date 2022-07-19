@@ -1,0 +1,6 @@
+__pycache__
+src/erc1820_predeployed/artifacts/*
+!src/erc1820_predeployed/artifacts/.keep
+test/venv
+version.txt
+*.egg-info/
