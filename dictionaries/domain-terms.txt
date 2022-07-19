@@ -1,0 +1,6 @@
+alloc
+erc1820
+keccak256
+predeployed
+multisignature
+fullcheck
