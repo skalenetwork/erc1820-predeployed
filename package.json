@@ -1,6 +1,5 @@
 {
     "name": "erc1820-predeployed",
-    "version": "0.0.1",
     "description": "Predeployed ERC1820 Pseudo-introspection Registry Contract.",
     "repository": "git@github.com:skalenetwork/erc1820-predeployed.git",
     "author": "Vadim Yavorsky <vadim@skalelabs.com>",
@@ -24,8 +23,5 @@
         "hardhat": "^2.6.4",
         "ts-node": "^10.2.1",
         "typescript": "^4.4.3"
-    },
-    "dependencies": {
-        "@openzeppelin/contracts": "^4.3.2"
     }
 }
