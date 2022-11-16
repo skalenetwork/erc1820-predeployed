@@ -59,6 +59,7 @@ venv
 # Typescript staff
 types/
 typechain/
+typechain-types/
 
 # OpenZeppelin
 .openzeppelin/dev-*.json
@@ -67,3 +68,7 @@ typechain/
 
 # docs
 docs/api/*
+
+# Python cache
+.mypy_cache
+.pytest_cache
